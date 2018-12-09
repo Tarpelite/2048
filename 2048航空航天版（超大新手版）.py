@@ -6,7 +6,7 @@ import copy               #引用复制函数来做数据矩阵检测
 import pygame
 #设计用户界面
 root = Tk()
-root.title('某小仙女专用DQ版2048')
+root.title('2048')
 root.geometry()#主窗口和标题
 #音效模块，利用pygame处理背景音乐和移动音效
 pygame.init()
